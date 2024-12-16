@@ -1,7 +1,7 @@
 # O crescimento da Inteligência Artificial (IA) no mercado de trabalho brasileiro. 
 
 ## 📒 Descrição
-o vídeo irá aboardar o crescimento da IA no mercado de trabaho brasileiro e a sua importância para a economia e produtividade. 
+o podcast irá aboardar o crescimento da IA no mercado de trabaho brasileiro e a sua importância para a economia e produtividade. 
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT para pesquisa e roteirização
