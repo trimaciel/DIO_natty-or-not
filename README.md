@@ -1,21 +1,26 @@
 # O crescimento da Inteligência Artificial (IA) no mercado de trabalho brasileiro. 
 
 ## 📒 Descrição
-o podcast irá aboardar o crescimento da IA no mercado de trabaho brasileiro e a sua importância para a economia e produtividade. 
+Este vídeo com duração de 2:46 irá abordar o crescimento da IA no mercado de trabaho brasileiro e a sua importância para a economia e produtividade. 
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT para pesquisa e roteirização
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa D-ID para sintetização de voz e geração de avatar virtual
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para realizar a pesquisa do conteúdo e o "D-ID" para criar o vídeo com um avatar virtual e voz sintetizada para apresentar o conteúdo de forma dinâmica. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um vídeo objetivo e sucinto que apresenta um conteúdo elucidativo sobre a IA no mercado de trabalho brasileiro. 
+
+https://studio.d-id.com/share?id=293460eb97501295285d48e6008b2ab4&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A utilização de IAs na criação de conteúdos oferecem uma enorme gama de possibilidades e facilitam todas as fases de criação do projeto. 
 
-Pesquisa: 
+## 💻 Pesquisa: 
+
 O crescimento da Inteligência Artificial (IA) no mercado de trabalho brasileiro tem sido um fenômeno cada vez mais evidente nos últimos anos. A IA está impactando vários setores da economia, desde a indústria até os serviços, e vem sendo vista como um motor de inovação, produtividade e competitividade para o Brasil.
 
 ### 1. **A Adoção da IA no Mercado de Trabalho Brasileiro**
