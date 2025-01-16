@@ -50,3 +50,8 @@ Outro desafio é o **impacto social** da automação em empregos mais simples e 
 ### 5. **Conclusão: A IA como Pilar para o Futuro do Brasil**
 
 O crescimento da IA no Brasil tem o potencial de transformar a economia e o mercado de trabalho de forma profunda. Com investimentos contínuos em tecnologia e inovação, e com foco em educação e qualificação da mão de obra, o Brasil pode aproveitar os benefícios da IA para aumentar sua competitividade, gerar empregos de alta qualidade e promover um crescimento econômico sustentável. A IA será, sem dúvida, um dos principais motores da economia brasileira nas próximas décadas, e sua adoção crescente deverá ser um fator determinante para o sucesso das empresas e do país como um todo.
+
+**Atenciosamente,**  
+🍀 **Tri Maciel**  
+📫 (trimaciel@hotmail.com / trimaciel.souza@gmail.com)  
+✨ *Em frente!*  
